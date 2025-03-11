@@ -1,0 +1,44 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "heorhiev/php-light-http": "dev-master",
+        "heorhiev/php-light-app": "dev-master",
+        "heorhiev/php-light-orm": "dev-master",
+        "heorhiev/php-light-module-vipcall-bot": "dev-master"
+    },
+    "require-dev": {
+        "franzl/studio": "^0.16"
+    },
+    "config": {
+        "process-timeout": 1800,
+        "allow-plugins": {
+            "franzl/studio": true
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-light-http.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-light-app.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-light-orm.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-light-tg-bot.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-light-module-vipcall-bot.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-light-i18n.git"
+        }
+    ]
+}
