@@ -1,6 +1,6 @@
 {
   "host": "database:3306",
-  "name": "tiger",
+  "name": "app",
   "username": "tiger",
   "password": "ljENBY7aqmCtq5zJ"
 }
