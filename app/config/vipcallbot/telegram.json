@@ -3,6 +3,42 @@
   "token": "6859583605:AAFYW0raXaFtZFTDWXvD2t0e2ZgEldHbrX8",
   "buttons": "",
   "viewDirectory": "",
-  "menu": "",
-  "data": ""
+  "data": {
+    "about": [
+      {
+        "title": "Заголовок 1",
+        "video": "https://doka.guide/html/video/demos/poster/video/frontend.mp4"
+      },
+      {
+        "title": "Заголовок 2",
+        "video": "https://doka.guide/html/video/demos/poster/video/frontend.mp4"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Про компанію",
+      "code": "about"
+    },
+    {
+      "label": "Пройти стажування",
+      "code": "internship"
+    },
+    {
+      "label": "База скриптів",
+      "code": "scripts"
+    },
+    {
+      "label": "Умови співпраці",
+      "code": "cooperation"
+    },
+    {
+      "label": "Соціальні мережі",
+      "code": "social"
+    },
+    {
+      "label": "Контакти VipCall",
+      "code": "contacts"
+    }
+  ]
 }
